@@ -34,3 +34,4 @@ def lambda_handler(event,context):
     if sent == True:
         print("A mail with a new tweet was sent to the recipient!")
     else: print("No new tweets!")
+        #AAAAAAAAA TEEEEST!
