@@ -31,3 +31,4 @@ def scrap_twitter(userid):
     object = response.json()
     tweets = object['data']['user']['result']['timeline_v2']['timeline']['instructions'][1]['entries'][0]['content']['itemContent']['tweet_results']['result']['legacy']
     return tweets
+#AAAA TEEEEEEST!!!!!!!!
